@@ -1,1 +1,1 @@
-# Game-click
+https://game-click.netlify.app/
